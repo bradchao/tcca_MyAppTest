@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         myApp = (MyApp) getApplication();
 
         Log.i("brad", "Main: oncreate : " + myApp.stage);
+
     }
 }
